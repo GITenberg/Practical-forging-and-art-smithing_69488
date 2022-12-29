@@ -5,12 +5,17 @@ contributor:
     agent_name: Lake, Edward J.
     gutenberg_agent_id: '55289'
     url: http://www.gutenberg.org/2009/agents/55289
+covers:
+- cover_type: archival
+  image_path: 69488-h/images/cover.jpg
 creator:
   author:
     agent_name: Googerty, Thomas F.
     gutenberg_agent_id: '55288'
     url: http://www.gutenberg.org/2009/agents/55288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69488#Practical-forging-and-art-smithing
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69488'
